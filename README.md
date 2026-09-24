@@ -1,4 +1,6 @@
-## Hi there 👋
+## My Github Page!
+# I made this page for my cs155 class!
+I love computer science!
 
 <!--
 **CyrisKnight/CyrisKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
