@@ -1,5 +1,4 @@
 ## My Github Page!
-# I made this page for my cs155 class!
 I love computer science!
 
 <!--
